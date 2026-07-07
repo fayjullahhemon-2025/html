@@ -12,7 +12,7 @@
 }
 .day{
     background-color: #f6d6d6;
-    border:1px solid red;
+    /* border:1px solid red; */
     /* height:50px; */
     /* width: 50px; */
     display:flex;
