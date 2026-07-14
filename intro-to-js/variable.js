@@ -16,3 +16,15 @@ console.log(price);
 const a = 34;
 // a = 32; //error
 console.log(a);
+
+let username = "Emon";
+let age = 26;
+let gender = "male";
+let birthdate = "24/06/2000";
+let jobholder = true;
+
+console.log(username);
+console.log(age);
+console.log(gender);
+console.log(birthdate);
+console.log(jobholder);
